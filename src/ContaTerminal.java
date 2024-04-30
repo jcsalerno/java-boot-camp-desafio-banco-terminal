@@ -20,7 +20,6 @@ public class ContaTerminal {
         System.out.println("Por favor, digite seu saldo:");
         double saldo = Double.parseDouble(scan.nextLine().trim());
 
-
        System.out.printf("Olá " + nomeUsuario);
        System.out.print(", obrigado por criar uma conta em nosso banco, sua agência é " + contaAgencia);
        System.out.print(" , conta: " + contaBancaria);

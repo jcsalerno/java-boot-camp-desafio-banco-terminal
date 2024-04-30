@@ -36,4 +36,4 @@ Os campos entre [ ] serão substituídos pelas informações inseridas pelos usu
 ---
 
 ## Print do desafio no meu terminal
-![print do desafio](img.png)
+![print do desafio](desafio-boot-camp.png)
